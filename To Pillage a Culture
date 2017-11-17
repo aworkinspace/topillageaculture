@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html>
 <head>
 To Pillage a Culture
 </head>
@@ -8,11 +7,11 @@ what is Cultural Genocide?
 </body>
 <style>
    @font-face {
-   font-family: 'lemonchickenregular';
-   src: url('LEMONCHI-webfont.woff');
+   font-family: "Palatino Linotype", "Book Antiqua", serif
     font-weight: normal;
     font-style: normal;
     }
+
     div {
     font-family: 'lemonchickenregular';
     }
