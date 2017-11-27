@@ -1,19 +1,35 @@
 <!DOCTYPE html>
 <head>
-To Pillage a Culture
+<link href="https://fonts.googleapis.com/css?family=Spectral+SC" rel="stylesheet">
 </head>
 <body>
-what is Cultural Genocide?
-</body>
 <style>
-   @font-face {
-   font-family: "Palatino Linotype", "Book Antiqua", serif
-    font-weight: normal;
-    font-style: normal;
-    }
-
-    div {
-    font-family: 'lemonchickenregular';
-    }
+      head {
+    font-family: 'Spectral SC', serif;
+}
+   body {
+    font-family: 'Spectral SC', serif;
+}
 </style>
+<div align="center">
+<h1>To Pillage a Culture</h1>
+</div>
+<div align="right">
+<p>
+Modernization <br>
+Technical Progress<br>
+No Human Rights<br>
+The Rich profit from Wars<br>
+Peace Negotiations are  fake<br>
+The Perfect Dystopia<br>
+</p>
+- Daniel Steven Moskowitz
+</div>
+<div>
+<form>
+<input class="button1" type="button" value="my works" onclick="window.location.href='https://www.wattpad.com/user/smolwoojae'" /> <br>
+<input class="button2" type="button" value="my instagram" onclick="window.location.href='http://www.instagram.com/ilhoon.mp4'" />
+</form>
+</div>
+</body>
 </html>
